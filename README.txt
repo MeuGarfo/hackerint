@@ -21,6 +21,6 @@ remover links do mesmo site com titulos iguais [hack]
 baixar o textos dos arquivos armazenados [hack]
 
 numero inicial de tarefas = 20 tarefas
-tempo máximo estimado inicialmente = 20*10m = 200m =3h20m
+tempo máximo estimado inicialmente = 20*10m = 200m = 3h20m
 tempo total gasto = 
 numero final de tarefas = 
